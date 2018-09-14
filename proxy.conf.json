@@ -1,0 +1,7 @@
+{
+    "/gerencial/api/auth/login": {
+        "target": "https://web.gruposol.com.br",
+        "secure": false,
+        "changeOrigin": true
+    }
+}

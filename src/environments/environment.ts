@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  //api_url: 'https://intranet.gruposol.com.br/gerencial/api'
+  api_url: '/gerencial/api',
+  api_get: 'https://web.gruposol.com.br/gerencial/api'
 };
 
 /*
